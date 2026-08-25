@@ -1,4 +1,4 @@
- Booking & Reservation System
+# Booking & Reservation System
 
 A full-stack booking system (think Calendly/OpenTable, simplified) built to demonstrate real-world backend engineering, not just CRUD: JWT auth, relational data modeling, and — the centerpiece — **race-condition-safe booking** so two users can never double-book the same time slot.
 
